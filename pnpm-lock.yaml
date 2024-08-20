@@ -414,8 +414,8 @@ importers:
         specifier: ^1.2.2
         version: 1.2.2
       superstruct:
-        specifier: ^1.0.4
-        version: 1.0.4
+        specifier: ^2.0.2
+        version: 2.0.2
     devDependencies:
       '@rollup/plugin-alias':
         specifier: ^5.1.0
@@ -7899,6 +7899,11 @@ packages:
   /superstruct@1.0.4:
     resolution: {integrity: sha512-7JpaAoX2NGyoFlI9NBh66BQXGONc+uE+MRS5i2iOBKuS4e+ccgMDjATgZldkah+33DakBxDHiss9kvUcGAO8UQ==}
     engines: {node: '>=14.0.0'}
+
+  /superstruct@2.0.2:
+    resolution: {integrity: sha512-uV+TFRZdXsqXTL2pRvujROjdZQ4RAlBUS5BTh9IGm+jTqQntYThciG/qu57Gs69yjnVUSqdxF9YLmSnpupBW9A==}
+    engines: {node: '>=14.0.0'}
+    dev: false
 
   /supertap@3.0.1:
     resolution: {integrity: sha512-u1ZpIBCawJnO+0QePsEiOknOfCRq0yERxiAchT0i4li0WHNUJbf0evXXSXOcCAR4M8iMDoajXYmstm/qO81Isw==}
