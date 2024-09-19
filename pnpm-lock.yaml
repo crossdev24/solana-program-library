@@ -58,8 +58,8 @@ importers:
         specifier: ^0.0.5
         version: 0.0.5(prettier@3.3.2)
       '@types/bn.js':
-        specifier: ^5.1.0
-        version: 5.1.5
+        specifier: ^5.1.6
+        version: 5.1.6
       '@types/jest':
         specifier: ^29.5.12
         version: 29.5.12
@@ -277,8 +277,8 @@ importers:
         specifier: ^29.7.0
         version: 29.7.0
       '@types/bn.js':
-        specifier: ^5.1.1
-        version: 5.1.5
+        specifier: ^5.1.6
+        version: 5.1.6
       '@types/jest':
         specifier: ^29.5.12
         version: 29.5.12
@@ -439,8 +439,8 @@ importers:
         specifier: ^11.1.6
         version: 11.1.6(rollup@4.18.0)(tslib@2.6.3)(typescript@5.4.5)
       '@types/bn.js':
-        specifier: ^5.1.0
-        version: 5.1.5
+        specifier: ^5.1.6
+        version: 5.1.6
       '@types/jest':
         specifier: ^29.5.12
         version: 29.5.12
@@ -716,8 +716,8 @@ importers:
         specifier: ^1.93.0
         version: 1.93.0
       '@types/bn.js':
-        specifier: ^5.1.0
-        version: 5.1.5
+        specifier: ^5.1.6
+        version: 5.1.6
       '@types/chai':
         specifier: ^4.3.16
         version: 4.3.16
@@ -2692,10 +2692,10 @@ packages:
       '@babel/types': 7.23.0
     dev: true
 
-  /@types/bn.js@5.1.5:
-    resolution: {integrity: sha512-V46N0zwKRF5Q00AZ6hWtN0T8gGmDUaUzLWQvHFo5yThtVwK/VCenFY3wXVbOvNfajEpsTfQM4IN9k/d6gUVX3A==}
+  /@types/bn.js@5.1.6:
+    resolution: {integrity: sha512-Xh8vSwUeMKeYYrj3cX4lGQgFSF/N03r+tv4AiLl1SucqV+uTQpxRcnM8AkXKHwYP9ZPXOYXRr2KPXpVlIvqh9w==}
     dependencies:
-      '@types/node': 20.14.6
+      '@types/node': 20.14.7
     dev: true
 
   /@types/chai-as-promised@7.1.8:
